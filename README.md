@@ -1,6 +1,7 @@
 # fyp2021p02g10
 ITU First Year Project 2, Group 10  
-@developed together with Iben Huse, Louis Brandt, Kata Literáti-Dobos, Ruben Jonsman
+@developed together with Iben Huse, Louis Brandt, Kata Literáti-Dobos, Ruben Jonsman  
+
 In this project, we complete tasks similar to data scientists working for a public health agency, to inform
 central governments about possible correlates between COVID-19 and environmental factors facilitating or
 hampering its spread. We explore the latest data set of all infections in the year 2020 provided by
